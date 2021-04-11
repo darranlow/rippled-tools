@@ -1,2 +1,2 @@
 # rippled-tools
-Consolidated tools that interact with the public rippled server
+RippleD Tools is a consolidated set of tools that interact with the public rippled data API (data.ripple.com)
